@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aryan Kadam ("loak20")
-- 👀 I’m interested in CP , Cybersecurity
-- 🌱 I’m currently learning Cybersecurity
+
   
 
 
